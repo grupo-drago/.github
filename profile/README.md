@@ -18,10 +18,15 @@ Nos especializamos en dos líneas de negocio:
 ### DRAGO PLATFORMS (Productos SaaS Propios)
 
 → Marvin IA: Plataforma de IA Generativa para creación de contenido multimedia
+
 → TuMerka: Marketplace B2B/B2C conectando +60 MYPEs
+
 → DataHub: Portal de datos públicos del Perú (clima, empresas, turismo)
+
 → Panthera ERP: Sistema integral de gestión empresarial
+
 → Dolphin CRM: Plataforma omnicanal de gestión de clientes
+
 → Perfilado de Datos: Herramienta analítica de calidad de datos
 
 ## 🔧 NUESTRA METODOLOGÍA
