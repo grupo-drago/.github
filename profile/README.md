@@ -1,16 +1,18 @@
-DRAGO es una empresa peruana de tecnología especializada en resolver desafíos complejos mediante soluciones de Inteligencia Artificial, Internet de las Cosas (IoT) y Cloud Computing. Con más de 4 años de trayectoria, hemos transformado más de 60 empresas en 8 sectores estratégicos del Perú.
+**DRAGO** es una empresa peruana de tecnología especializada en resolver desafíos complejos mediante soluciones de Inteligencia Artificial, Internet de las Cosas (IoT) y Cloud Computing. Con más de 4 años de trayectoria, hemos transformado más de 60 empresas en 8 sectores estratégicos del Perú.
 
 ## 💼 NUESTRAS SOLUCIONES
 
 Nos especializamos en dos líneas de negocio:
 
-DRAGO SOLUTIONS (Consultoría y Desarrollo)
+### DRAGO SOLUTIONS (Consultoría y Desarrollo)
+
 → Desarrollo de Software a medida
 → Inteligencia Artificial y Machine Learning
 → Internet de las Cosas (IoT) y Edge Computing
 → Arquitectura de Datos y Cloud Computing
 
-DRAGO PLATFORMS (Productos SaaS Propios)
+### DRAGO PLATFORMS (Productos SaaS Propios)
+
 → Marvin IA: Plataforma de IA Generativa para creación de contenido multimedia
 → TuMerka: Marketplace B2B/B2C conectando +60 MYPEs
 → DataHub: Portal de datos públicos del Perú (clima, empresas, turismo)
