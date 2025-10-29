@@ -7,9 +7,13 @@ Nos especializamos en dos líneas de negocio:
 ### DRAGO SOLUTIONS (Consultoría y Desarrollo)
 
 → Desarrollo de Software a medida
+
 → Inteligencia Artificial y Machine Learning
+
 → Internet de las Cosas (IoT) y Edge Computing
+
 → Arquitectura de Datos y Cloud Computing
+
 
 ### DRAGO PLATFORMS (Productos SaaS Propios)
 
