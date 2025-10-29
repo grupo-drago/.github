@@ -29,6 +29,6 @@ Evaluamos la viabilidad técnica de cada proyecto antes de iniciarlo, aplicamos 
 - Foco en resultados tangibles: Facturación por hitos aprobados
 - Equipo multidisciplinario que se adapta a cada sector y proyecto
 
-🌎 EJECUTAMOS PROYECTOS EN TODO EL PERÚ
+## 🌎 EJECUTAMOS PROYECTOS EN TODO EL PERÚ
 
 Desde Lima hasta las operaciones más remotas, nuestro equipo se adapta a las necesidades de cada cliente.
